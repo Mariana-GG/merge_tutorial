@@ -2,5 +2,5 @@ GROCERIES LIST:
 
 bread
 rice
-chicken
+eggs
 fruits
