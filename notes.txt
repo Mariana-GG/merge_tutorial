@@ -1,6 +1,6 @@
 GROCERIES LIST:
 
 bread
-rice
+quinoa
 eggs
 fruits
