@@ -1,0 +1,6 @@
+GROCERIES LIST:
+
+bread
+rice
+chicken
+fruits
